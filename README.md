@@ -1,8 +1,8 @@
 # Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 IMPLEMENTATION OF THE BACK END OF THE COMPILER 
-# Date :05-11-24
-# NAME:N.Navya Sree
-# Reg.No:212223040138
+# Date :10-11-24
+# NAME:R.PRIYANGA
+# Reg.No:212223230161
 # Aim :
 To write a program to implement the back end of the compiler.
 # ALGORITHM
@@ -50,10 +50,12 @@ int main()
 }
 ```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/110fc020-66d9-443a-a5ed-99ffe2f93c0d)
+![image](https://github.com/user-attachments/assets/102f4bf0-537d-46c6-9917-8c7f5e1cf6e8)
+
 
 ## Program Output:
-![image](https://github.com/user-attachments/assets/fb72d23a-3865-4853-80ed-3b5ad58fe3a6)
+![image](https://github.com/user-attachments/assets/22f11b01-947e-4cad-84ae-0629c6f091f2)
+
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
